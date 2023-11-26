@@ -6,6 +6,12 @@ public class add2num {
         int j = 15;
         int sum = i + j;
 
+        short s = (12911);
+
+        System.out.println(s);
         System.out.println("the sum is: " + sum);
+
+        boolean bool = true;
+        System.out.println(bool);
     }
 }
